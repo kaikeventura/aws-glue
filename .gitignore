@@ -1,0 +1,31 @@
+# Biblioteca awsglue extraída do container
+awsglue/
+
+# Ambientes virtuais
+.venv/
+venv/
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Logs e arquivos de execução
+*.log
+
+# Configurações locais de IDEs
+.vscode/
+.idea/
+
+# Arquivos de teste
+.coverage
+htmlcov/
+.cache/
+.tox/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Diretórios temporários
+tmp/
+temp/
