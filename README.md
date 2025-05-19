@@ -1,6 +1,6 @@
 # AWS Glue com DynamoDB
 
-Este projeto utiliza o **AWS Glue** para ler dados de uma tabela do catálogo e inserir os registros no **Amazon DynamoDB**. O ambiente é preparado para rodar **localmente**, utilizando a biblioteca `awsglue` com suporte via `runrun.sh`.
+Este projeto utiliza o **AWS Glue** para ler dados de uma tabela do catálogo e inserir os registros no **Amazon DynamoDB**. O ambiente é preparado para rodar **localmente**, utilizando a biblioteca `awsglue` com suporte via `extract_awsglue.sh`.
 
 ---
 
